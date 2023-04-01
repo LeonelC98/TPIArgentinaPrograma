@@ -1,0 +1,5 @@
+argentina,1,2,arabia saudita
+polonia,0,0,mexico
+tunez,1,0,francia
+inglaterra,3,0,gales
+españa,1,1,alemania
